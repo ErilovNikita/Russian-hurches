@@ -452,6 +452,6 @@ window.onload = function () {
   countBar.innerHTML = 'На нашем сайте уже <b>' + count + '</b> храмов!';
 
   document.getElementById('footer').classList.add('text-center', 'p-5');
-  $("#footer").html('Романов Александр');
+  $("#footer").html('Erilov Nikita');
 
 };
